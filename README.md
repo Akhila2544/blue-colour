@@ -1,2 +1,3 @@
 # blue-colour
-about image tags
+about image tags and attributes
+
